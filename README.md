@@ -1,7 +1,8 @@
 # Mentro Web
 ### Stacks used : `HTML` `CSS` and `JavaScript`
 
- -  Live Link :: [Go Live]()
+ -  Live Link :: [Go Live](https://iamnaeto.github.io/mentro_web/)
+ - ### NB: Not Responsive; don't view with your mobile phone for your own mental health.
     
 ## Author: Charles Obimnaeto Egesionu ##
 
